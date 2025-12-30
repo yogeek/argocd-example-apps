@@ -1,0 +1,15 @@
+apiVersion: promoter.argoproj.io/v1alpha1
+kind: PromotionStrategy
+metadata:
+  name: demo
+  namespace: default
+spec:
+  environments:
+  - autoMerge: false
+    branch: environments/dev
+  - autoMerge: false
+    branch: environments/val
+  - autoMerge: false
+    branch: environments/prod
+  gitRepositoryRef:
+    name: yogeek-argocd-example-apps # The name of the GitRepository resource
