@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/yogeek/argocd-example-apps",
+  "drySha": "b214a6404f2859ad4826ea78542f6eb6f9b195d2",
+  "author": "Guillaume Dupin <gdupin@gmail.com>",
+  "date": "2025-12-31T11:09:20Z",
+  "subject": "Change promotion strategy name from 'demo-github' to 'demo'"
+}
