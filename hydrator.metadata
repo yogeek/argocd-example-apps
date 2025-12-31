@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/yogeek/argocd-example-apps",
+  "drySha": "53ced3628a77b81fbdb551743391041548210b77",
+  "author": "Guillaume Dupin <gdupin@gmail.com>",
+  "date": "2025-12-30T18:00:30Z",
+  "subject": "Add promotion strategy configuration for demo"
+}
