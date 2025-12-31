@@ -4,6 +4,9 @@ metadata:
   name: demo
   namespace: default
 spec:
+  activeCommitStatuses:
+    # The ArgoCDCommitStatus CR will maintain this commit status based on the application health.
+    - key: argocd-health
   environments:
   - autoMerge: false
     branch: environments/dev
