@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/yogeek/argocd-example-apps",
+  "drySha": "09bfaefef37474c69731bf0733a3e3b139df7789",
+  "commands": [
+    "helm template . --name-template guestbook --include-crds"
+  ]
+}
