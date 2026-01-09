@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/yogeek/argocd-example-apps",
+  "drySha": "09bfaefef37474c69731bf0733a3e3b139df7789",
+  "author": "Guillaume Dupin <gdupin@gmail.com>",
+  "date": "2026-01-09T18:07:25Z",
+  "subject": "Update guestbook-ui-deployment.yaml"
+}
